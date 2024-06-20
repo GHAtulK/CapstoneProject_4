@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Capstone Project" verbose="1">
+    <test name="Capstone Project Test">
+        <classes>
+            <class name="runner.CapstoneTestRunner"></class>
+        </classes>
+    </test>
+    </tests>
+</suite>
